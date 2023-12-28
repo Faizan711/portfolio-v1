@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import Logo from "@/public/logo.png";
+import Logo from "@/public/logo1.png";
 import Theme from "./Theme";
 import UnmountStudio from "./Unmount";
 import MobileMenu from "./MobileMenu";
@@ -19,10 +19,10 @@ export default function Navbar() {
       title: "Blog",
       href: "/blog",
     },
-    {
-      title: "Photos",
-      href: "/photos",
-    },
+    // {
+    //   title: "Photos",
+    //   href: "/photos",
+    // },
   ];
 
   return (
