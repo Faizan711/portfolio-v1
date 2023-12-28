@@ -13,30 +13,30 @@ import {
   BiLogoYoutube,
 } from "react-icons/bi";
 import { FaFreeCodeCamp, FaGitlab, FaProductHunt } from "react-icons/fa";
-import { SiCodewars } from "react-icons/si";
+import { SiCodewars,SiMedium  } from "react-icons/si";
 import { FaHashnode, FaHashtag, FaSquareGitlab } from "react-icons/fa6";
 
 export const socialLinks = [
   {
     id: 1,
     name: "GitHub",
-    url: "https://github.com/Evavic44",
+    url: "https://github.com/Faizan711",
     icon: BiLogoGithub,
-    status: "social",
+    status: "faizan",
   },
   {
     id: 2,
     name: "Twitter",
-    url: "https://twitter.com/victorekea",
+    url: "https://twitter.com/MdFaizan711",
     icon: BiLogoTwitter,
-    status: "social",
+    status: "faizan",
   },
   {
     id: 3,
     name: "Linkedin",
-    url: "https://linkedin.com/in/victorekeawa",
+    url: "https://www.linkedin.com/in/md-faizan-alam-bb2180234/",
     icon: BiLogoLinkedinSquare,
-    status: "social",
+    status: "faizan",
   },
   {
     id: 4,
@@ -83,9 +83,9 @@ export const socialLinks = [
   {
     id: 10,
     name: "Hashnode",
-    url: "https://eke.hashnode.dev",
+    url: "https://sololearner.hashnode.dev",
     icon: FaHashnode,
-    status: "publication",
+    status: "faizan",
   },
   {
     id: 11,
@@ -118,9 +118,9 @@ export const socialLinks = [
   {
     id: 15,
     name: "Stackoverflow",
-    url: "https://stackoverflow.com/users/14021166/victor-eke",
+    url: "https://stackoverflow.com/users/19179668/faizan",
     icon: BiLogoStackOverflow,
-    status: "social",
+    status: "faizan",
   },
   {
     id: 16,
@@ -135,5 +135,12 @@ export const socialLinks = [
     url: "https://gitlab.com/victoreke",
     icon: BiLogoGitlab,
     status: "social",
+  },
+  {
+    id: 18,
+    name: "Medium",
+    url: "https://medium.com/@faizan711",
+    icon: SiMedium,
+    status: "faizan",
   },
 ];
