@@ -27,7 +27,7 @@ export default async function Home() {
                 </p>
               </Slide>
               <Slide delay={0.1}>
-                <Social type="social" />
+                <Social type="faizan" />
               </Slide>
             </div>
           ))}
