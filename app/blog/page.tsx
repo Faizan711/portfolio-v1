@@ -28,7 +28,7 @@ export default async function Blog() {
             </h1>
             <p className="text-base dark:text-zinc-400 text-zinc-600 leading-relaxed mb-8">
               Welcome to my blog domain where I share personal stories about
-              things. Currently this section is under construction, you can check my articles my blogs on below platforms:
+              things. Currently this section is under construction, you can check my articles on below platforms:
             </p>
 
             <Social type="publication" />
