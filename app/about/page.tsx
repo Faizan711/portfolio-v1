@@ -12,16 +12,16 @@ import { sanityFetch } from "@/lib/sanity.client";
 
 export const metadata: Metadata = {
   title: "About | Md Faizan Alam",
-  metadataBase: new URL("https://victoreke.com/about"),
+  metadataBase: new URL("https://whoisfaizan.vercel.app/about"),
   description:
     "Learn more about my skills, experience and technical background",
   openGraph: {
     title: "About | Md Faizan Alam",
-    url: "https://victoreke.com/about",
+    url: "https://whoisfaizan.vercel.app/about",
     description:
       "Learn more about my skills, experience and technical background",
     images:
-      "https://res.cloudinary.com/victoreke/image/upload/v1692635746/victoreke/og.png",
+      "/faizan-main.png",
   },
 };
 

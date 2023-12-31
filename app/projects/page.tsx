@@ -9,14 +9,14 @@ import { sanityFetch } from "@/lib/sanity.client";
 
 export const metadata: Metadata = {
   title: "Project | Md Faizan Alam",
-  metadataBase: new URL("https://victoreke.com/projects"),
-  description: "Explore projects built by Victor Eke",
+  metadataBase: new URL("https://whoisfaizan.vercel.app/projects"),
+  description: "Explore projects built by Faizan",
   openGraph: {
     title: "Projects | Md Faizan Alam",
-    url: "https://victoreke.com/projects",
-    description: "Explore projects built by Victor Eke",
+    url: "https://whoisfaizan.vercel.app/projects",
+    description: "Explore projects built by Faizan",
     images:
-      "https://res.cloudinary.com/victoreke/image/upload/v1692636087/victoreke/projects.png",
+      "/faizan-main.png",
   },
 };
 

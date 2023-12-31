@@ -6,14 +6,14 @@ import { Slide } from "../animation/Slide";
 
 export const metadata: Metadata = {
   title: "Blog | Md Faizan Alam",
-  metadataBase: new URL("https://victoreke.com/blog"),
+  metadataBase: new URL("https://whoisfaizan.vercel.app/blog"),
   description: "Read latest stories from Md Faizan Alam's Blog",
   openGraph: {
     title: "Blog | Md Faizan Alam",
-    url: "https://victoreke.com/blog",
+    url: "https://whoisfaizan.vercel.app/blog",
     description: "Read latest stories from Md Faizan Alam's Blog",
     images:
-      "https://res.cloudinary.com/victoreke/image/upload/v1692636087/victoreke/blog.png",
+      "/faizan-main.png",
   },
 };
 
