@@ -222,7 +222,7 @@ export default async function Post({ params }: Props) {
         <h3 className="lg:text-4xl text-3xl font-semibold tracking-tight mb-8">
           Comments
         </h3>
-        <Comments />
+        {/* <Comments /> */}
       </section>
 
       <section className="max-w-3xl lg:py-10 pt-0">

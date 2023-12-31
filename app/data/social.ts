@@ -75,9 +75,9 @@ export const socialLinks = [
   },
   {
     id: 9,
-    name: "FreeCodeCamp",
-    url: "https://freecodecamp.org/news/author/victoreke/",
-    icon: FaFreeCodeCamp,
+    name: "Medium",
+    url: "https://medium.com/@faizan711",
+    icon: SiMedium,
     status: "publication",
   },
   {
@@ -89,9 +89,9 @@ export const socialLinks = [
   },
   {
     id: 11,
-    name: "Sanity",
-    url: "https://www.sanity.io/exchange/community/victoreke",
-    icon: FaHashtag,
+    name: "Hashnode",
+    url: "https://sololearner.hashnode.dev",
+    icon: FaHashnode,
     status: "publication",
   },
   {
