@@ -25,6 +25,7 @@ const options = {
 };
 
 export const metadata: Metadata = {
+  manifest : "/manifest.json",
   title: options.title,
   metadataBase: new URL(options.url),
   description: options.description,
